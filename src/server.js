@@ -1,7 +1,3 @@
-// Sources used to help with homeowork:
-// 1. To know how to call functions from other js files: 
-// https://www.geeksforgeeks.org/node-js/how-to-include-functions-from-other-files-in-node-js/
-
 
 const express = require("express");
 const cookieParser = require("cookie-parser");
