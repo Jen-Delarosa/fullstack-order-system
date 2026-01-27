@@ -76,20 +76,7 @@ async function verify_form(body){
   }
 
 }
-// helper function to update shipping info
-// function update_shipping_info(params){
-//   let id = params.updateShip
-//   let method = params.shipping
-//   if(orders[id].status == "Placed"){
-//     // this order is valid to change shipping mehtod
-//     orders[id].shipping = String(method)
-//     orders[id].address = String(params.address)
-//     orders[id].notes = "updated shipping method"
-    
-//     return true
-//   }
-//   return false
-// }
+
 
 app.get("/",  (req, res) => {
   res.status(200).render("about.pug")
