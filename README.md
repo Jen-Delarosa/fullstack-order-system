@@ -4,7 +4,7 @@
 
 ## Image of main page: 
 
-![about_page](screenshots/about_page.png)
+![about_page](src/screenshots/about_page.png)
 
 ## Main Features:
 
