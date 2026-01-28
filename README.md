@@ -7,15 +7,12 @@ The project also includes an admin page where admins can search and filter order
 
 
 ## Main Features:
-
 - Full-stack order management with MySQL database
 - Timed order modification logic using server-side validation
 - Dynamic order status updates are visible to customers in real-time
 - Admin page with search and filter functionality by customer name and order status
 
-
 ## Skills Used: 
-
 - Backend: Node.js, Express.js
 - Database: MySQL (design and data management)
 - Frontend: HTML, CSS, Pug  
