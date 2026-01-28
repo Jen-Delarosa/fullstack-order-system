@@ -18,6 +18,9 @@ The project also includes an admin page where admins can search and filter order
 - Frontend: HTML, CSS, Pug  
 
 
+
+## Image of main page: 
+
 ![about_page](src/screenshots/about_page.png)
 
 
